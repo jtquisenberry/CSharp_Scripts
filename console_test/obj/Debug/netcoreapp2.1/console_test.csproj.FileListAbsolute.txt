@@ -1,0 +1,11 @@
+E:\Development\Git\CSharp_Scripts\console_test\obj\Debug\netcoreapp2.1\console_test.csprojAssemblyReference.cache
+E:\Development\Git\CSharp_Scripts\console_test\obj\Debug\netcoreapp2.1\console_test.csproj.CoreCompileInputs.cache
+E:\Development\Git\CSharp_Scripts\console_test\obj\Debug\netcoreapp2.1\console_test.AssemblyInfoInputs.cache
+E:\Development\Git\CSharp_Scripts\console_test\obj\Debug\netcoreapp2.1\console_test.AssemblyInfo.cs
+E:\Development\Git\CSharp_Scripts\console_test\bin\Debug\netcoreapp2.1\console_test.deps.json
+E:\Development\Git\CSharp_Scripts\console_test\bin\Debug\netcoreapp2.1\console_test.runtimeconfig.json
+E:\Development\Git\CSharp_Scripts\console_test\bin\Debug\netcoreapp2.1\console_test.runtimeconfig.dev.json
+E:\Development\Git\CSharp_Scripts\console_test\bin\Debug\netcoreapp2.1\console_test.dll
+E:\Development\Git\CSharp_Scripts\console_test\bin\Debug\netcoreapp2.1\console_test.pdb
+E:\Development\Git\CSharp_Scripts\console_test\obj\Debug\netcoreapp2.1\console_test.dll
+E:\Development\Git\CSharp_Scripts\console_test\obj\Debug\netcoreapp2.1\console_test.pdb
