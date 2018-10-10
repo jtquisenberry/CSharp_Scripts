@@ -1,0 +1,14 @@
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.deps.json
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.runtimeconfig.json
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.runtimeconfig.dev.json
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.pdb
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.csprojAssemblyReference.cache
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.csproj.CoreCompileInputs.cache
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfoInputs.cache
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfo.cs
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.pdb

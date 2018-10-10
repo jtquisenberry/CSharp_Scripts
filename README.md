@@ -17,3 +17,10 @@ See https://code.visualstudio.com/docs/editor/versioncontrol
 ## Execution Example
 cd basic
 scriptcs .\dogs.csx
+
+
+## Create new xUnit project
+dotnet new xunit --force
+
+## Run a specific test
+dotnet test --filter "FullyQualifiedName=unit_testing001.Arrays_Test.AAAAATest1"

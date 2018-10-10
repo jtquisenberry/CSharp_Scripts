@@ -1,0 +1,14 @@
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\unit_testing.deps.json
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\unit_testing.runtimeconfig.json
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\unit_testing.runtimeconfig.dev.json
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\unit_testing.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\unit_testing.pdb
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.csprojAssemblyReference.cache
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.csproj.CoreCompileInputs.cache
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.AssemblyInfoInputs.cache
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.AssemblyInfo.cs
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.dll
+E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.pdb
