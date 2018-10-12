@@ -12,3 +12,17 @@ E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\
 E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfo.cs
 E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.dll
 E:\Development\Git\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.pdb
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.deps.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.runtimeconfig.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.runtimeconfig.dev.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\bin\Debug\netcoreapp2.1\arrays.pdb
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.csprojAssemblyReference.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.csproj.CoreCompileInputs.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfoInputs.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.AssemblyInfo.cs
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\arrays\obj\Debug\netcoreapp2.1\arrays.pdb

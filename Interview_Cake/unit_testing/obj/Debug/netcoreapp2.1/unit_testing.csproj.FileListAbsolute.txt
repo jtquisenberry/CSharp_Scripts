@@ -12,3 +12,7 @@ E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcorea
 E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.AssemblyInfo.cs
 E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.dll
 E:\Development\Git\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.pdb
+C:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\unit_testing.deps.json
+C:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\unit_testing.runtimeconfig.json
+C:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\unit_testing\bin\Debug\netcoreapp2.1\unit_testing.runtimeconfig.dev.json
+C:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\unit_testing\obj\Debug\netcoreapp2.1\unit_testing.AssemblyInfo.cs

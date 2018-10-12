@@ -11,8 +11,8 @@ To install scriptcs, first install Chocolatey using PowerShell run in administra
 See https://chocolatey.org/install
 
 Use chocolatey to install scriptcs
-cinst scriptcs
-See https://code.visualstudio.com/docs/editor/versioncontrol
+`cinst scriptcs`
+
 
 ## Execution Example
 `cd basic`
