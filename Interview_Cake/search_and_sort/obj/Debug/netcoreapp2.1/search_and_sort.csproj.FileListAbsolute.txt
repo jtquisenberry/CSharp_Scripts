@@ -1,0 +1,14 @@
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.deps.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.runtimeconfig.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.runtimeconfig.dev.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.pdb
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.csprojAssemblyReference.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.csproj.CoreCompileInputs.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.AssemblyInfoInputs.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.AssemblyInfo.cs
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.pdb

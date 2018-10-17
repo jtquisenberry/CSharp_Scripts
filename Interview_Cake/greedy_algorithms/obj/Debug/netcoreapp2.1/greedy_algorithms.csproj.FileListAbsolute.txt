@@ -1,0 +1,14 @@
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\obj\Debug\netcoreapp2.1\greedy_algorithms.csprojAssemblyReference.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\obj\Debug\netcoreapp2.1\greedy_algorithms.csproj.CoreCompileInputs.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\obj\Debug\netcoreapp2.1\greedy_algorithms.AssemblyInfoInputs.cache
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\obj\Debug\netcoreapp2.1\greedy_algorithms.AssemblyInfo.cs
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\bin\Debug\netcoreapp2.1\greedy_algorithms.deps.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\bin\Debug\netcoreapp2.1\greedy_algorithms.runtimeconfig.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\bin\Debug\netcoreapp2.1\greedy_algorithms.runtimeconfig.dev.json
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\bin\Debug\netcoreapp2.1\greedy_algorithms.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\bin\Debug\netcoreapp2.1\greedy_algorithms.pdb
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\obj\Debug\netcoreapp2.1\greedy_algorithms.dll
+c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\greedy_algorithms\obj\Debug\netcoreapp2.1\greedy_algorithms.pdb
