@@ -12,3 +12,17 @@ c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\hash_tables\obj\
 c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.AssemblyInfo.cs
 c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.dll
 c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\bin\Debug\netcoreapp2.1\hash_tables.deps.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\bin\Debug\netcoreapp2.1\hash_tables.runtimeconfig.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\bin\Debug\netcoreapp2.1\hash_tables.runtimeconfig.dev.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\bin\Debug\netcoreapp2.1\hash_tables.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\bin\Debug\netcoreapp2.1\hash_tables.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.csprojAssemblyReference.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.csproj.CoreCompileInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.AssemblyInfoInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.AssemblyInfo.cs
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\hash_tables\obj\Debug\netcoreapp2.1\hash_tables.pdb
