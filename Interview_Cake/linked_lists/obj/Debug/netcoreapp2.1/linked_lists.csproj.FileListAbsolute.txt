@@ -1,0 +1,14 @@
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\bin\Debug\netcoreapp2.1\linked_lists.deps.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\bin\Debug\netcoreapp2.1\linked_lists.runtimeconfig.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\bin\Debug\netcoreapp2.1\linked_lists.runtimeconfig.dev.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\bin\Debug\netcoreapp2.1\linked_lists.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\bin\Debug\netcoreapp2.1\linked_lists.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\obj\Debug\netcoreapp2.1\linked_lists.csprojAssemblyReference.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\obj\Debug\netcoreapp2.1\linked_lists.csproj.CoreCompileInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\obj\Debug\netcoreapp2.1\linked_lists.AssemblyInfoInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\obj\Debug\netcoreapp2.1\linked_lists.AssemblyInfo.cs
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\obj\Debug\netcoreapp2.1\linked_lists.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\linked_lists\obj\Debug\netcoreapp2.1\linked_lists.pdb

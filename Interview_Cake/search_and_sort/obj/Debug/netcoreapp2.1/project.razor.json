@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Development\\Git\\CSharp_Scripts\\Interview_Cake\\search_and_sort\\search_and_sort.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
