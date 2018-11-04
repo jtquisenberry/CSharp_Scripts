@@ -1,0 +1,14 @@
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\obj\Debug\netcoreapp2.1\trees_and_graphs.csprojAssemblyReference.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\obj\Debug\netcoreapp2.1\trees_and_graphs.csproj.CoreCompileInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\obj\Debug\netcoreapp2.1\trees_and_graphs.AssemblyInfoInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\obj\Debug\netcoreapp2.1\trees_and_graphs.AssemblyInfo.cs
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\bin\Debug\netcoreapp2.1\trees_and_graphs.deps.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\bin\Debug\netcoreapp2.1\trees_and_graphs.runtimeconfig.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\bin\Debug\netcoreapp2.1\trees_and_graphs.runtimeconfig.dev.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\bin\Debug\netcoreapp2.1\trees_and_graphs.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\bin\Debug\netcoreapp2.1\trees_and_graphs.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\obj\Debug\netcoreapp2.1\trees_and_graphs.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\trees_and_graphs\obj\Debug\netcoreapp2.1\trees_and_graphs.pdb

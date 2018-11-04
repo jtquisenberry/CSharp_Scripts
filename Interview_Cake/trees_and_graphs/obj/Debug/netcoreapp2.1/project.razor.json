@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Development\\Git\\CSharp_Scripts\\Interview_Cake\\trees_and_graphs\\trees_and_graphs.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
