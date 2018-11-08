@@ -9,6 +9,9 @@ int length = 3;
 string h = word.Substring(start, length);
 Console.WriteLine(h);
 
+// Location to the end.
+Console.WriteLine(word.Substring(1));
+
 // IndexOf
 Console.WriteLine("");
 Console.WriteLine("IndexOf");

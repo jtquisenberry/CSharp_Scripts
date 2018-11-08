@@ -1,0 +1,14 @@
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\bin\Debug\netcoreapp2.1\dynamic_programming.deps.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\bin\Debug\netcoreapp2.1\dynamic_programming.runtimeconfig.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\bin\Debug\netcoreapp2.1\dynamic_programming.runtimeconfig.dev.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\bin\Debug\netcoreapp2.1\dynamic_programming.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\bin\Debug\netcoreapp2.1\dynamic_programming.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\obj\Debug\netcoreapp2.1\dynamic_programming.csprojAssemblyReference.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\obj\Debug\netcoreapp2.1\dynamic_programming.csproj.CoreCompileInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\obj\Debug\netcoreapp2.1\dynamic_programming.AssemblyInfoInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\obj\Debug\netcoreapp2.1\dynamic_programming.AssemblyInfo.cs
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\obj\Debug\netcoreapp2.1\dynamic_programming.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\dynamic_programming\obj\Debug\netcoreapp2.1\dynamic_programming.pdb
