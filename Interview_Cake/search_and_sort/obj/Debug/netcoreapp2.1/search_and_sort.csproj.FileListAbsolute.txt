@@ -12,3 +12,17 @@ c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\
 c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.AssemblyInfo.cs
 c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.dll
 c:\Development\Git\CSharp_Scripts\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.deps.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.runtimeconfig.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.runtimeconfig.dev.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\bin\Debug\netcoreapp2.1\search_and_sort.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.csprojAssemblyReference.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.csproj.CoreCompileInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.AssemblyInfoInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.AssemblyInfo.cs
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\search_and_sort\obj\Debug\netcoreapp2.1\search_and_sort.pdb
