@@ -1,0 +1,14 @@
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\bin\Debug\netcoreapp2.1\general_programming.deps.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\bin\Debug\netcoreapp2.1\general_programming.runtimeconfig.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\bin\Debug\netcoreapp2.1\general_programming.runtimeconfig.dev.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\bin\Debug\netcoreapp2.1\general_programming.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\bin\Debug\netcoreapp2.1\general_programming.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\obj\Debug\netcoreapp2.1\general_programming.csprojAssemblyReference.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\obj\Debug\netcoreapp2.1\general_programming.csproj.CoreCompileInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\obj\Debug\netcoreapp2.1\general_programming.AssemblyInfoInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\obj\Debug\netcoreapp2.1\general_programming.AssemblyInfo.cs
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\obj\Debug\netcoreapp2.1\general_programming.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\general_programming\obj\Debug\netcoreapp2.1\general_programming.pdb
