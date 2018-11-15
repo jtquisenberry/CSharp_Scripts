@@ -1,0 +1,14 @@
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\bin\Debug\netcoreapp2.1\probability_and_combinatorics.deps.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\bin\Debug\netcoreapp2.1\probability_and_combinatorics.runtimeconfig.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\bin\Debug\netcoreapp2.1\probability_and_combinatorics.runtimeconfig.dev.json
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\bin\Debug\netcoreapp2.1\probability_and_combinatorics.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\bin\Debug\netcoreapp2.1\probability_and_combinatorics.pdb
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\obj\Debug\netcoreapp2.1\probability_and_combinatorics.csprojAssemblyReference.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\obj\Debug\netcoreapp2.1\probability_and_combinatorics.csproj.CoreCompileInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\obj\Debug\netcoreapp2.1\probability_and_combinatorics.AssemblyInfoInputs.cache
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\obj\Debug\netcoreapp2.1\probability_and_combinatorics.AssemblyInfo.cs
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\obj\Debug\netcoreapp2.1\probability_and_combinatorics.dll
+e:\Development\Git\CSharp_Scripts\Interview_Cake\probability_and_combinatorics\obj\Debug\netcoreapp2.1\probability_and_combinatorics.pdb
