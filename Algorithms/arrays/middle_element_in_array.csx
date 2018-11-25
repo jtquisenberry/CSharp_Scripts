@@ -23,6 +23,7 @@ public double GetMiddleOfArray(List<int> list)
         {
             status = false;
             fast_index--;
+            Console.WriteLine(e.Message);
         }
     
         

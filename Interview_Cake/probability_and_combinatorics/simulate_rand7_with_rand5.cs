@@ -56,7 +56,7 @@ namespace simulate_rand7_with_rand5
         public void EndNodeNotPresentTest()
         {
             int actual = Rand7();
-            int expected = 0;
+            //int expected = 0;
             Console.WriteLine(actual);
           
 
