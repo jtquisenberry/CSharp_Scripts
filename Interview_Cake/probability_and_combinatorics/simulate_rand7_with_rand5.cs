@@ -26,7 +26,7 @@ namespace simulate_rand7_with_rand5
             {
                 
                 int roll1 = Rand5();
-                int roll2 = Rand5();
+                int roll2 = Rand5(); 
                 
                 // Think of the roll of two dice as a two-digit number
                 // with a number base equal to the number of sides of a die.

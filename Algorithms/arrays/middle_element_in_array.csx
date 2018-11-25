@@ -17,7 +17,7 @@ public double GetMiddleOfArray(List<int> list)
             fast_index += 1;
             int fast_value = list[fast_index];
             fast_index += 1;
-            fast_value = list[fast_index];
+            fast_value = list[fast_index]; 
         }
         catch(ArgumentOutOfRangeException e) // not IndexOutOfRangeException
         {
