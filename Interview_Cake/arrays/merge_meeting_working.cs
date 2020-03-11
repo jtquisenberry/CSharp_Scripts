@@ -54,6 +54,7 @@ namespace merge_meetings_working
         public static List<Meeting> MergeRanges(List<Meeting> meetings)
         {
             // Merge meeting ranges
+           
             
             var sortedMeetings = meetings.OrderBy(x => x.StartTime).ToList();
             
@@ -101,7 +102,7 @@ namespace merge_meetings_working
 
         // Tests
 
-        
+        [Fact]
         public void MeetingsOverlapTest()
         {
             var meetings = new List<Meeting>()
@@ -116,7 +117,7 @@ namespace merge_meetings_working
             Assert.Equal(expected, actual);
         }
 
-        
+        [Fact]
         public void MeetingsTouchTest()
         {
             var meetings = new List<Meeting>()
@@ -131,7 +132,7 @@ namespace merge_meetings_working
             Assert.Equal(expected, actual);
         }
 
-        
+        [Fact]
         public void MeetingContainsOtherMeetingTest()
         {
             var meetings = new List<Meeting>()
@@ -146,7 +147,7 @@ namespace merge_meetings_working
             Assert.Equal(expected, actual);
         }
 
-        
+        [Fact]
         public void MeetingsStaySeparateTest()
         {
             var meetings = new List<Meeting>()
@@ -161,7 +162,7 @@ namespace merge_meetings_working
             Assert.Equal(expected, actual);
         }
 
-        
+        [Fact]
         public void MultipleMergedMeetingsTest()
         {
             var meetings = new List<Meeting>()
@@ -176,7 +177,7 @@ namespace merge_meetings_working
             Assert.Equal(expected, actual);
         }
 
-        
+        [Fact]
         public void MeetingsNotSortedTest()
         {
             var meetings = new List<Meeting>()
@@ -191,7 +192,7 @@ namespace merge_meetings_working
             Assert.Equal(expected, actual);
         }
 
-        
+        [Fact]
         public void OneLongMeetingContainsSmallerMeetingsTest()
         {
             var meetings = new List<Meeting>()
@@ -207,7 +208,7 @@ namespace merge_meetings_working
             Assert.Equal(expected, actual);
         }
 
-        
+        [Fact]
         public void SampleInputTest()
         {
             var meetings = new List<Meeting>()
@@ -223,12 +224,6 @@ namespace merge_meetings_working
             Assert.Equal(expected, actual);
         }
 
-        
-
     }    
 
-    
-
 }
-
-SampleInputTest();
