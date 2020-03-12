@@ -68,6 +68,27 @@ Console.WriteLine();
 
 //////////////////////////////////////////////////////////////
 
+
+Console.WriteLine("Immutable, Value Type `int` Boxed in Object");
+Object m = 9999;
+Console.WriteLine("Type:            {0}", m.GetType().Name);
+Console.WriteLine("Base Type:       {0}", m.GetType().BaseType.Name);
+Console.WriteLine("Is Value Type:   {0}", m.GetType().IsValueType);
+Console.WriteLine("Original Value:  {0}", m);
+public void UpdateInt4(Object m)
+{
+    m = (Object)((int)m + 1);
+    Console.WriteLine("Inside Function: {0}", m);
+    return;
+}
+
+UpdateInt4(m);
+Console.WriteLine("After Function:  {0}", m);
+Console.WriteLine();
+
+
+//////////////////////////////////////////////////////////////
+
 Console.WriteLine("Immutable, Reference Type `string`");
 string s = "abcdef";
 Console.WriteLine("Type:            {0}", s.GetType().Name);
@@ -204,5 +225,45 @@ UpdateObject(my_class);
 Console.WriteLine("After Function:  {0}", my_class.p);
 Console.WriteLine();
 
+///////////////////////////////
 
+int q = 9999;
+Console.WriteLine("Global Object `int`");
+Console.WriteLine("Type:            {0}", q.GetType().Name);
+Console.WriteLine("Base Type:       {0}", q.GetType().BaseType.Name);
+Console.WriteLine("Is Value Type:   {0}", q.GetType().IsValueType);
+Console.WriteLine("Original Value:  {0}", q);
 
+public void UpdateGlobal()
+{
+    q += 1;
+    Console.WriteLine("Inside Function: {0}", q);
+    return;
+}
+
+UpdateGlobal();
+Console.WriteLine("After Function:  {0}", q);
+Console.WriteLine();
+
+////////////////////////////////////////////////
+
+Console.WriteLine("Test Reference Equals with `ref` Keyword");
+Console.WriteLine("Value Types Never Have Equal References.");
+int a = 9999;
+Console.WriteLine("Type:            {0}", a.GetType().Name);
+Console.WriteLine("Base Type:       {0}", a.GetType().BaseType.Name);
+Console.WriteLine("Is Value Type:   {0}", a.GetType().IsValueType);
+Console.WriteLine("Original Value   {0}", a);
+public void CompareReference(ref int b)
+{
+    Console.WriteLine("ReferenceEquals: {0}", Object.ReferenceEquals(a, b));
+    Console.WriteLine("Inside Function: {0}", b);
+    int c = 1;
+    var d = c;
+    Console.WriteLine("ReferenceEquals: {0}", Object.ReferenceEquals(c, d));
+    return;
+}
+
+CompareReference(ref a);
+//Console.WriteLine("After Function: {0}", b);
+Console.WriteLine();
