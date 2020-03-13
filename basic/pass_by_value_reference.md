@@ -32,5 +32,5 @@ Using the `ref` keyword, an object is passed by reference. Updates made to the o
 Using the `out` keyword, updates made to the object within the function update the object outside the function. The object must be initialized within the function. Updates are unidirectional - updates done within the function are avaialble outside the function. 
 
 ## Stack and Heap
-Value types reside in the stack. Reference types reside in the heap. A pointer to a reference type resides in the stack. 
+Value types reside in the stack. Reference types reside in the heap. A pointer to a reference type resides in the stack.  
 
